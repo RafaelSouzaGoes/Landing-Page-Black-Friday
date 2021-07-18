@@ -39,8 +39,8 @@ header{
     position: absolute;
     color: rgb(187, 184, 184);
     top: 750px; 
-    left: 600px; 
-    width: 100%;
+    left: 372px; 
+    width: 50%;
     font-size: 45px;
     font-style: italic;
     text-shadow: 25px 0 20px rgb(1, 148, 1);
@@ -67,7 +67,7 @@ header{
     border-radius: 5px;
     padding: 15px;
     max-width: 208px;    
-    left: 838px;
+    left: 754pxx;
     position: absolute;
 }
 
